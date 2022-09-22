@@ -14,6 +14,7 @@ import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
 /*
  * AUTHOR - SARANYA MAITY
+ * edited by Somnath
  */
 @SpringBootApplication
 @OpenAPIDefinition(info = @Info(title = "Mobile Plan Manager"))
